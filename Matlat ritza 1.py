@@ -1,7 +1,3 @@
-''' 
-@Author: 322428177 May gurevich
-@Author: 207918731 Ofir Almog
-'''
 def create_increasing_matrix(size=50):
     matrix = []
     current_value = 1
